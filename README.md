@@ -1,2 +1,4 @@
 # NYTBestsellers
-A Dataframe of NYT Fiction Bestsellers in October from 2012-2022
+Working at a bookstore, it’s important to know which books are going to sell. The New York Times Bestsellers list is one of the most authorative rankings of bookselling out there, and luckily you can customize your own book listing depending on what information you want to know. On its list, the New York Times provides how many weeks the book has been on its list, the publisher, and the author. This information is helpful to me to get an idea of what books are going to be more likely to sell, what publishers and authors I should buy from, etc. 
+
+Our goal is to get this information in our own dataframes, and personalize the lists for our own use. For me, this means getting the NYT Bestseller list for hardcover and paperback fiction for the month of October from the years 2012-2022.
